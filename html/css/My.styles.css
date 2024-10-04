@@ -1,0 +1,16 @@
+h1 {
+	color: darkred;text-align: center; font-family: arial;
+} 
+
+h2 {
+	color: green; font-style: oblique;
+}
+h3 {
+	color: brown;
+}
+body {
+	background: pink;
+}
+footer 
+	 p {background: greenyellow; width: 80px; height: 50px; padding: 20px; border: 1px solid; color: blue;
+	}
